@@ -1,4 +1,4 @@
-# MCP Personal Assistant
+# MCP Email Helper
 
 这是一个基于 Node.js 的个人助手服务项目。
 
